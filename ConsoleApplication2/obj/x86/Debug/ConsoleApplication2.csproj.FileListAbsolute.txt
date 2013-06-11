@@ -1,0 +1,10 @@
+c:\users\moshkin\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\moshkin\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\moshkin\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\moshkin\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+c:\users\moshkin\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+C:\work\delphi\src\WriterReaders_cSharp\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\work\delphi\src\WriterReaders_cSharp\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+C:\work\delphi\src\WriterReaders_cSharp\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\work\delphi\src\WriterReaders_cSharp\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\work\delphi\src\WriterReaders_cSharp\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
